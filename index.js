@@ -1,4 +1,4 @@
-var port = process.evn.PORT || 5000;
+var PORT = process.evn.PORT || 5000;
 
 const { Client, Intents } = require('discord.js');
 
@@ -53,4 +53,5 @@ client.on('message', message => {
 });
 
 keepAlive()
+// client.login(process.env.TOKEN)
 client.login('OTcyNTA1ODA2OTMzMjIxNDE3.GWBq_u.ePEi2JmnUEFfMHEdAwTPcRTjFSvpx_jWujpEO4')
