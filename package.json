@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "discord.js": "^13.7.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "hecking-discord-bot",
+  "version": "1.0.0",
+  "description": "AI-driven tools that can help you automate tasks on your Discord server.",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Toshir-96/Hecking-Discord-Bot.git"
+  },
+  "author": "Shravanth.M",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Toshir-96/Hecking-Discord-Bot/issues"
+  },
+  "homepage": "https://github.com/Toshir-96/Hecking-Discord-Bot#readme"
+}
