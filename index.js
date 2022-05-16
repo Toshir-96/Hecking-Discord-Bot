@@ -1,3 +1,5 @@
+var port = process.evn.PORT || 5000;
+
 const { Client, Intents } = require('discord.js');
 
 const Discord = require('discord.js');
